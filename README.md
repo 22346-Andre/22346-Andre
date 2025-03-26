@@ -3,7 +3,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://dev.to/andré lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andré lucas" height="30" width="40" /></a>
+
 <a href="www.linkedin.com/in/andrelucas3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andrelucas3" height="30" width="40" /></a>
 <a href="https://instagram.com/andre_lucas1__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre_lucas1__" height="30" width="40" /></a>
 </p>
